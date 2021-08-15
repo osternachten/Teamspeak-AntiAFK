@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v150\Platforms\x64\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Die Unterstützung für Windows XP als Ziel wird eingestellt und ist in künftigen Versionen von Visual Studio nicht mehr enthalten. Weitere Informationen finden Sie unter https://go.microsoft.com/fwlink/?linkid=2023588.
+  plugin.cpp
+C:\Users\Windows\Desktop\pluginsdk2\src\plugin.cpp(770): warning C4065: switch-Anweisung enthält "default", aber keine case-Bezeichnungen
+C:\Users\Windows\Desktop\pluginsdk2\src\plugin.cpp(777): warning C4065: switch-Anweisung enthält "default", aber keine case-Bezeichnungen
+C:\Users\Windows\Desktop\pluginsdk2\src\plugin.cpp(784): warning C4065: switch-Anweisung enthält "default", aber keine case-Bezeichnungen
+  test_plugin.vcxproj -> C:\Users\Windows\Desktop\pluginsdk2\src\x64\Release\test_plugin.dll
